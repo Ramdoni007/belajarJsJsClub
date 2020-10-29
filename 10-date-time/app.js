@@ -11,7 +11,7 @@ val = today.getMonth();
 val = today.getDate();
 val = today.getHours();
 val = today.getSeconds();
-val = today.getMilliseconds();
+val = today.getMilliseconds(); 
 val = today.getTime();
 
 birthday.setDate(03);
