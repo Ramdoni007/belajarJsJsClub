@@ -1,9 +1,11 @@
-console.log("Hellow DOWNY");
-console.log(12345);
-console.log(true);
-var greeting = "Salam Kenal!";
-console.log(greeting);
-console.log([1, 2, 3, 4]); // Ini Arrays
-console.log({ a: 1, b: 2, c: 3 });
-console.table({ a: 1, b: 2, c: 3 });
-console.error("This Is Error");
+// If Statment adalah sebuah fitur di dalam pemograman untuk melakukan kondisi JIka tidak (IF or els)
+
+const id = 100;
+
+if (id == 100) {
+  val = "Aku Baik Baik saja ";
+} else {
+  val = "aku tidak baik baik saja ";
+}
+
+console.log(id);
